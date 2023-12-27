@@ -9,7 +9,7 @@
 # $5 - use-black
 # $6 - use-mypy
 # $7 - use-isort
-# $8 - extra-pylint-options
+$8 - extra-pylint-options
 # $9 - extra-pycodestyle-options
 # ${10} - extra-flake8-options
 # ${11} - extra-black-options
