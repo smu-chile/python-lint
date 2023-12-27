@@ -18,7 +18,7 @@
 
 if [ "$2" = true ] ; then
 
-    echo Running: pylint ./$PATH $8 $1
+    echo Running: pylint ./dags $8 $1
 
     pylint $8 $1
     exit_code=$?
